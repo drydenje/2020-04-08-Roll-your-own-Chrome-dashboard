@@ -1,0 +1,9 @@
+{
+  "name": "Mintbean Hackathon Extension",
+  "description": "2020-04-08-Roll-your-own-Chrome-dashboard hackathon challenge",
+  "version": "1.0",
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
